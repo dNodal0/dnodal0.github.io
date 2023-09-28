@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Blog Ibcoms.com
+title: Ibcoms | Group
 
 # Your name to show in the footer
 author: David AKIF
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://ibcoms.com"
 
 ################
 # --- Logo --- #
